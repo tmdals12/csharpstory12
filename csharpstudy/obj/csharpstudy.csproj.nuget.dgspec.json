@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SBS\\Desktop\\csharpstudy\\csharpstudy.csproj": {}
+    "C:\\Users\\SBS\\Desktop\\c#\\csharpstory12\\csharpstudy\\csharpstudy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SBS\\Desktop\\csharpstudy\\csharpstudy.csproj": {
+    "C:\\Users\\SBS\\Desktop\\c#\\csharpstory12\\csharpstudy\\csharpstudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SBS\\Desktop\\csharpstudy\\csharpstudy.csproj",
+        "projectUniqueName": "C:\\Users\\SBS\\Desktop\\c#\\csharpstory12\\csharpstudy\\csharpstudy.csproj",
         "projectName": "csharpstudy",
-        "projectPath": "C:\\Users\\SBS\\Desktop\\csharpstudy\\csharpstudy.csproj",
+        "projectPath": "C:\\Users\\SBS\\Desktop\\c#\\csharpstory12\\csharpstudy\\csharpstudy.csproj",
         "packagesPath": "C:\\Users\\SBS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SBS\\Desktop\\csharpstudy\\obj\\",
+        "outputPath": "C:\\Users\\SBS\\Desktop\\c#\\csharpstory12\\csharpstudy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SBS\\AppData\\Roaming\\NuGet\\NuGet.Config",
