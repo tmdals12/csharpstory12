@@ -72,8 +72,6 @@ namespace csharpstudy
             //ascll
 
 
-            string s1 = "문자열";
-            string s2 = "우리가 처음 만들어보는 c# 프로그램";
 
             Console.WriteLine(s1);
             Console.WriteLine(s2);
@@ -97,11 +95,9 @@ namespace csharpstudy
             Console.WriteLine($"삼각형의 넓이 {widthNumber * heightNumber}");
 
 
-            string inputA = Console.ReadLine();
-            int withnumber = int.Parse(R);
+            
 
-
-
+            
 
 
 
